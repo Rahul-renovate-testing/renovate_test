@@ -29,7 +29,7 @@
                 "unity3d-packages"
             ],
             "matchPackageNames": [
-                "/^org.nuget/"
+                "/^org\\.nuget/"
             ],
             "registryUrls": [
                 "https://unitynuget-registry.openupm.com/"
