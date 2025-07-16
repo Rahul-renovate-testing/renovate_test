@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "org.nuget.akka.analyzers": "0.3.0"
+    "org.nuget.akka.analyzers": "0.3.3"
   }
 }
